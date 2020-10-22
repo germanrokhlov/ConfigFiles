@@ -1,0 +1,4 @@
+db:
+   connString: "https://hostname/db"
+   hostname: localhost
+   port: 2400
